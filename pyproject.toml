@@ -3,7 +3,7 @@ name = "fastapi-core-app"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "Lorena Araújo",email = "lorena.araujo1@faculdadegran.edu.br"}
+    {name = "lorena-naraujo",email = "lorena-naraujo@users.noreply.github.com}
 ]
 requires-python = ">=3.14"
 dependencies = [
